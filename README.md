@@ -1,2 +1,1 @@
-#mYaPP
-THIS IS MY APP
+#MyAPP
